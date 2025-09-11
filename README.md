@@ -57,13 +57,6 @@
 - 👯 Looking to collaborate on open source projects
 - 💬 Ask me about **React**, **Next.js**, **Laravel**, or **Tailwind CSS**
 
-## 🎯 Goals for 2025
-
-- [ ] Contribute to more open source projects
-- [ ] Master TypeScript and advanced React patterns
-- [ ] Build a full-stack SaaS application
-- [ ] Complete my vocational studies with excellence
-- [ ] Learn cloud technologies (AWS/GCP)
 
 ## 📫 Let's Connect!
 
