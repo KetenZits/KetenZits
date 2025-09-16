@@ -77,6 +77,6 @@
 
 <div align="center">
   
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+*"There is no worry in life, only the thoughts we compile inside our mind."* – Thanapon K.
 
 </div>
