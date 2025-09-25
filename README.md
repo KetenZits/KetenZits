@@ -6,10 +6,10 @@
 
 ## 🚀 About Me
 
-- 🎓 Currently studying **Vocational Certificate Level 3** (ปวช.3)
-- 💻 Passionate **Full Stack Developer** 
-- 🌱 Always exploring new technologies and frameworks
-- ⚡ Love building web applications that make a difference
+- 🎓 Currently studying **Vocational Certificate Level 3**
+- 💻 Passionate **Owner of Technology company** 
+- 🌱 Tech code and bussiness is my life
+- ⚡ Building web applications that make a difference
 
 ## 🛠️ Tech Stack
 
