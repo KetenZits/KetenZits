@@ -9,7 +9,7 @@
 - 🎓 Currently studying **Vocational Certificate Level 3**
 - 💻 Passionate **Owner of Technology company** 
 - 🌱 Tech code and bussiness is my life
-- ⚡ Building web applications that make a difference
+- ⚡ Coding Focusing Zero Distraction
 
 ## 🛠️ Tech Stack
 
