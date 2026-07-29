@@ -95,6 +95,6 @@
 
 *"There is no worry in life, only the thoughts we compile inside our mind."* – Thanapon K.
 
-<img src="https://komarev.com/ghpvc/?username=thanapon&color=2F81F7&style=flat-square&label=views" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=KetenZits&color=2F81F7&style=flat-square&label=views" alt="views" />
 
 </div>
