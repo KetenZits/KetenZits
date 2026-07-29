@@ -53,12 +53,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thanapon&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true" height="165" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanapon&layout=compact&theme=github_dark&hide_border=true&hide_title=true" height="165" alt="top langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=KetenZits&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true" height="165" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KetenZits&layout=compact&theme=github_dark&hide_border=true&hide_title=true" height="165" alt="top langs" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thanapon&theme=github-dark-blue&hide_border=true" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KetenZits&theme=github-dark-blue&hide_border=true" alt="streak" />
 
 </div>
 
@@ -66,7 +66,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thanapon&theme=github-compact&hide_border=true&area=true" alt="activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KetenZits&theme=github-compact&hide_border=true&area=true" alt="activity graph" />
 
 </div>
 
