@@ -12,10 +12,10 @@
 
   whoami
 
-  > vocational student · level 3
-  > tech company owner
-  > builds with react, next.js, laravel
-  > distraction-free by design
+  > Student at Mahidol University
+  > ICT Faculty
+  > DST MAJOR
+  > DEVELOPER
 
 ```
 
@@ -58,14 +58,6 @@
 
 <br>
 
-<div align="center">
-
-[![LINE](https://img.shields.io/badge/-LINE-00C300?style=flat-square&logo=line&logoColor=white)](https://line.me/ti/p/~your-line-id)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/your-facebook)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/your-instagram)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
-</div>
 
 <br>
 
