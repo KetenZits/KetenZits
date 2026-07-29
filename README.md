@@ -40,10 +40,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanapon&show_icons=true&theme=github_dark&hide_border=true&hide_title=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanapon&layout=compact&theme=github_dark&hide_border=true&hide_title=true" height="150" alt="langs" />
-</div>
 
 <br>
 
