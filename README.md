@@ -2,7 +2,7 @@
 
 # Thanapon Khawkumkrong
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=460&lines=Owner+%40+Tech+Company;Full+Stack+Developer;Vocational+Student;Zero+Distraction+Coding" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=460&lines=Full+Stack+Developer;Vocational+Student;Zero+Distraction+Coding" alt="Typing SVG" />
 
 </div>
 
