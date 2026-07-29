@@ -53,6 +53,46 @@
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=thanapon&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true" height="165" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanapon&layout=compact&theme=github_dark&hide_border=true&hide_title=true" height="165" alt="top langs" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thanapon&theme=github-dark-blue&hide_border=true" alt="streak" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thanapon&theme=github-compact&hide_border=true&area=true" alt="activity graph" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+-------------------------------------
+
+</div>
+
+<br>
+
+<div align="center">
+
+**building** · full-stack apps with React + Laravel
+**learning** · advanced TypeScript
+**open to** · collaborating on open source
+**ask me** · React · Next.js · Laravel · Tailwind
+
+</div>
+
+<br>
+
+<div align="center">
+
 *"There is no worry in life, only the thoughts we compile inside our mind."* – Thanapon K.
 
 <img src="https://komarev.com/ghpvc/?username=thanapon&color=2F81F7&style=flat-square&label=views" alt="views" />
