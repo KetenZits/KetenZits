@@ -58,7 +58,7 @@
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KetenZits&theme=github-dark-blue&hide_border=true" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=KetenZits&theme=github-dark-blue&hide_border=true" alt="streak" />
 
 </div>
 
