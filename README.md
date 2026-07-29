@@ -23,6 +23,8 @@
 
 <div align="center">
 
+![C](https://img.shields.io/badge/-C-000000?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat-square&logo=cplusplus)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript)
@@ -35,25 +37,17 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql)
 ![Prisma](https://img.shields.io/badge/-Prisma-000000?style=flat-square&logo=prisma)
+![PineScript](https://img.shields.io/badge/-PineScript-000000?style=flat-square&logo=tradingview)
 
 </div>
-
-<br>
-
 
 <br>
 
 <div align="center">
 
-**building** · full-stack apps with React + Laravel
-**learning** · advanced TypeScript
-**open to** · collaborating on open source
-**ask me** · React · Next.js · Laravel · Tailwind
+-------------------------------------
 
 </div>
-
-<br>
-
 
 <br>
 
